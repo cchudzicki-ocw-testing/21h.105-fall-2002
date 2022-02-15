@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Third Writing Assignment
-type: OCWFile
 uid: edbf4474-de9b-c16a-ae97-f1002bcc4d6b
 ---

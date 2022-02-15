@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Second Writing Assignment
-type: OCWFile
 uid: 0653dc93-aecc-316e-b32b-bab2e46fc2f5
 ---

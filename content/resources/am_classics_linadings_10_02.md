@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Selections for Readings by Abraham Lincoln
-type: OCWFile
 uid: 24d76a3d-9644-90bb-bb15-8038c3a90d95
 ---
