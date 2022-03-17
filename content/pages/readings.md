@@ -3,7 +3,6 @@ content_type: page
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
-parent_uid: null
 title: Readings
 uid: 8fe75aea-668a-61ef-1462-019c26e9db2d
 ---
@@ -46,7 +45,7 @@ Keller, Helen. _The Story of My Life_ (1903). New York: Bantam Books, 1990.
 
 King, Jr., Martin Luther. "Letter from Birmingham Jail" (1963). In _Why We Can't Wait._ New York: Harper & Row, 1964, pp. 76-95.
 
-Lincoln, Abraham. _Selected Speeches and Writings_. New York: Vintage Books, 1992. ({{% resource_link 24d76a3d-9644-90bb-bb15-8038c3a90d95 "PDF" %}})
+Lincoln, Abraham. _Selected Speeches and Writings_. New York: Vintage Books, 1992. ({{< resource_link 24d76a3d-9644-90bb-bb15-8038c3a90d95 "PDF" >}})
 
 Losada, Ángel. "The Controversy between Sepúlveda and Las Casas in the Junta of Valladolid." In _Bartolomé de las Casas in History: Toward an Understanding of the Man and His Work._ Edited by Juan Friede and Benjamin Keen. DeKalb: Northern Illinois University Press, 1971, pp. 279-300.
 

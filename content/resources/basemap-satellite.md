@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21h-105-american-classics-fall-2002/basemap-satellite.png
 file_type: image/png
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Image
 title: basemap-satellite.png
-uid: 711fad2c-a607-41d9-ada0-67d8d41aa385
+uid: bd27928a-e73a-4d2b-8f37-e3089e110714
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
