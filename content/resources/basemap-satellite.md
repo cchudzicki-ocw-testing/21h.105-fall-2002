@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Image
 title: basemap-satellite.png
-uid: d0888da3-a111-4e0d-912e-4f7286ba7317
+uid: 3d0ae17c-7730-4221-aba8-16736767260b
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
