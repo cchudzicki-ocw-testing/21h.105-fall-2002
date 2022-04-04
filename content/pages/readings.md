@@ -57,7 +57,7 @@ Sledge, E. B. *With the Old Breed at Peleliu and Okinawa.* New York: Oxford Univ
 
 Thoreau, Henry David. "Resistance to Civil Government" (1849). In *The Norton Anthology of American Literature,* 6th ed. Edited by Nina Baym et al. New York: W. W. Norton, 2003, pp. 1792-1807.
 
-United Nations General Assembly. Universal Declaration of Human Rights (1948).
+United Nations General Assembly. *Universal Declaration of Human Rights* (1948).
 
 Veblen, Thorstein. "Conspicuous Consumption." In *The Theory of the Leisure Class* (1899). New York: Penguin Books, 1994, pp. 68-101.
 
