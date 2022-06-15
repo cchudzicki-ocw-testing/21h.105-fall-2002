@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides a bibliography of readings for the course.
 draft: false
 learning_resource_types:
 - Readings
