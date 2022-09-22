@@ -5,6 +5,7 @@ file: /courses/21h-105-american-classics-fall-2002/8cda754ced152d2ca566f25e3f313
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
